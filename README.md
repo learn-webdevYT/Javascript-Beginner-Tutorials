@@ -22,3 +22,8 @@ This Repository if for my 52 Javascript Beginner Projects in 52 Weeks Challenge,
    - [DEMO](https://learn-webdevyt.github.io/simple-counter/) 
    - [Source Code](https://github.com/learn-webdevYT/simple-counter)
    - [YOUTUBE TUTORIAL](https://youtu.be/-BWKWHE5rI4)
+
+## 5. Random Quote Generator
+   - [DEMO](https://learn-webdevyt.github.io/Random-Quote-Generator/) 
+   - [Source Code](https://github.com/learn-webdevYT/Random-Quote-Generator)
+   - [YOUTUBE TUTORIAL](https://youtu.be/NmstSmMykqc)
