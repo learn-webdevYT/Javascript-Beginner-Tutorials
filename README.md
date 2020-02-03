@@ -30,5 +30,5 @@ This Repository if for my 52 Javascript Beginner Projects in 52 Weeks Challenge,
 
 ## 6. Number Guessing Game
    - [DEMO](https://learn-webdevyt.github.io/number-guessing-game/) 
-   - [Source Code](https://learn-webdevyt.github.io/number-guessing-game/)
+   - [Source Code](https://github.com/learn-webdevYT/number-guessing-game)
    - [YOUTUBE TUTORIAL](https://youtu.be/2cQUkYU8AmI)
