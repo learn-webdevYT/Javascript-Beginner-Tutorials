@@ -37,3 +37,8 @@ This Repository if for my 52 Javascript Beginner Projects in 52 Weeks Challenge,
    - [DEMO](https://learn-webdevyt.github.io/show-day-of-the-week/) 
    - [Source Code](https://github.com/learn-webdevYT/show-day-of-the-week)
    - [YOUTUBE TUTORIAL](https://youtu.be/2cQUkYU8AmI)
+   
+## 8. Height Converter
+   - [DEMO](https://learn-webdevyt.github.io/height-converter/) 
+   - [Source Code](https://github.com/learn-webdevYT/height-converter)
+   - [YOUTUBE TUTORIAL](https://youtu.be/5G-sevyE1N4)
