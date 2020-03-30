@@ -56,3 +56,9 @@ This Repository if for my 52 Javascript Beginner Projects in 52 Weeks Challenge,
    - [Source Code](https://github.com/learn-webdevYT/weight-converter)
    - [YOUTUBE TUTORIAL](https://youtu.be/70Tn5EwCB14)
    - [BLOG ARTICLE TUTORIAL](https://learn-webdev.com/52-projects-in-52-weeks/week-9-javascript-beginner-projects-tutorial-weight-converter/)
+   
+## 10. BMI Calculator
+   - [DEMO](https://learn-webdevyt.github.io/BMI-Calculator/) 
+   - [Source Code](https://github.com/learn-webdevYT/BMI-Calculator)
+   - [YOUTUBE TUTORIAL](https://youtu.be/JBDW-R_vs6M)
+   - [BLOG ARTICLE TUTORIAL] Not done yet
