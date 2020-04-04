@@ -1,7 +1,7 @@
-# 52-Javascript-Beginner-Projects-in-52-Weeks
-This Repository if for my 52 Javascript Beginner Projects in 52 Weeks Challenge, to better learn Javascript and also teach other people who want to learn Javascript or Web Development in general.
+# Javascript Beginner Tutorials
+This Repository is for my Javascript Beginner Tutorials, if you're new to Javascript or Coding in general you can watch my tutorials and learn the basics with the practical approach of building small projects.
 
-# The 52 Javascript Beginner Projects List:
+# The Javascript Beginner Projects List:
 
 ## 1. Change Color on Click 
    - [DEMO](https://learn-webdevyt.github.io/Change-Color-on-Click/)
