@@ -4,9 +4,9 @@ This Repository is for my Javascript Beginner Tutorials, if you're new to Javasc
 # The Javascript Beginner Projects List:
 
 ## 11. TIP Calculator
-   - [Demo](https://learn-webdevyt.github.io/BMI-Calculator/) 
-   - [Source Code](https://github.com/learn-webdevYT/BMI-Calculator)
-   - [YouTube Tutorial](https://youtu.be/JBDW-R_vs6M)
+   - [Demo](https://learn-webdevyt.github.io/tip-calculator/) 
+   - [Source Code](https://github.com/learn-webdevYT/tip-calculator)
+   - [YouTube Tutorial](https://youtu.be/l1T0YH0qt-c)
    - [Blog Article Tutorial] Not done yet
 ---
 
