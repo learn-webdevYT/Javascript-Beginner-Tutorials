@@ -3,6 +3,14 @@ This Repository is for my Javascript Beginner Tutorials, if you're new to Javasc
 
 # The Javascript Beginner Projects List:
 
+
+## 12. Countdown Timer
+   - [Demo](https://learn-webdevyt.github.io/countdown-timer/) 
+   - [Source Code](https://github.com/learn-webdevYT/countdown-timer)
+   - [YouTube Tutorial](https://youtu.be/4_o3wO6aawg)
+   - [Blog Article Tutorial] Not done yet
+---
+
 ## 11. TIP Calculator
    - [Demo](https://learn-webdevyt.github.io/tip-calculator/) 
    - [Source Code](https://github.com/learn-webdevYT/tip-calculator)
