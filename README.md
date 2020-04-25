@@ -4,6 +4,13 @@ This Repository is for my Javascript Beginner Tutorials, if you're new to Javasc
 # The Javascript Beginner Projects List:
 
 
+## 13. Image Slider
+   - [Demo](https://learn-webdevyt.github.io/image-slider/) 
+   - [Source Code](https://github.com/learn-webdevYT/image-slider)
+   - [YouTube Tutorial](https://youtu.be/MR8HyVQtNDk)
+   - [Blog Article Tutorial] Not done yet
+---
+
 ## 12. Countdown Timer
    - [Demo](https://learn-webdevyt.github.io/countdown-timer/) 
    - [Source Code](https://github.com/learn-webdevYT/countdown-timer)
