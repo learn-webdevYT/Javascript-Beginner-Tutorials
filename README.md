@@ -1,4 +1,4 @@
-# Javascript Beginner Tutorials
+# Javascript Beginner Projects Tutorials
 This Repository is for my Javascript Beginner Tutorials, if you're new to Javascript or Coding in general you can watch my tutorials and learn the basics with the practical approach of building small projects.
 
 # The Javascript Beginner Projects List:
