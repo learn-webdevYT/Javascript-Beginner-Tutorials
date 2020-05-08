@@ -3,10 +3,10 @@ This Repository is for my Javascript Beginner Tutorials, if you're new to Javasc
 
 # The Javascript Beginner Projects List:
 
-## 15. Change CSS with JavaScript
-   - [Demo](https://learn-webdevyt.github.io/change-css-with-javascript/) 
-   - [Source Code](https://github.com/learn-webdevYT/change-css-with-javascript)
-   - [YouTube Tutorial](https://youtu.be/nohnYwuy8YY)
+## 15. Scroll Indicator
+   - [Demo](https://learn-webdevyt.github.io/scroll-indicator/) 
+   - [Source Code](https://github.com/learn-webdevYT/scroll-indicator)
+   - [YouTube Tutorial](https://youtu.be/lwZTJ0TJTN8)
    - [Blog Article Tutorial] Not done yet
 ---
 
