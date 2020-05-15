@@ -3,6 +3,13 @@ This Repository is for my Javascript Beginner Tutorials, if you're new to Javasc
 
 # The Javascript Beginner Projects List:
 
+## 16. Pomodoro Timer
+   - [Demo](https://learn-webdevyt.github.io/pomodoro-timer/) 
+   - [Source Code](https://github.com/learn-webdevYT/pomodoro-timer)
+   - [YouTube Tutorial](https://youtu.be/vAEG6OVCass)
+   - [Blog Article Tutorial] Not done yet
+---
+
 ## 15. Scroll Indicator
    - [Demo](https://learn-webdevyt.github.io/scroll-indicator/) 
    - [Source Code](https://github.com/learn-webdevYT/scroll-indicator)
