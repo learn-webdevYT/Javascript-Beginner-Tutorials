@@ -5,7 +5,7 @@ This Repository is for my Javascript Beginner Tutorials, if you're new to Javasc
 
 
 ## 17. To Do List
-   - [Demo](https://learn-webdevyt.github.io/to-do-list/) 
+   - [Demo](#https://learn-webdevyt.github.io/to-do-list/) 
    - [Source Code](https://github.com/learn-webdevYT/to-do-list)
    - [YouTube Tutorial](https://youtu.be/-pRg_daFjfk)
    - [Blog Article Tutorial] Not done yet
